@@ -1,3 +1,3 @@
 # My-first-remote-repository
-Test repository
 My name is Vera
+I live in Kontich
